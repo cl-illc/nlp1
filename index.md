@@ -9,7 +9,7 @@ Course coordinator: [Ekaterina Shutova](http://www.cl.cam.ac.uk/~es407/)
 Labs coordinator: [Joost Bastings](https://bastings.github.io)
 
 Teaching assistants: 
-- [Samira Abnar](https://staff.fnwi.uva.nl/s.abnar/)
+- [Samira Abnar](https://staff.fnwi.uva.nl/s.abnar/) (Senior TA)
 - Daniel Daza Cruz
 - Florian Mohnert
 - Jaap Jumelet
