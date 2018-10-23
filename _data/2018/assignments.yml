@@ -1,0 +1,34 @@
+-
+  layout: lecture
+  selected: y
+  date: 2018-10-31
+  img: prac
+  uid: practical1
+  title: "Practical I"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: 
+  data: 
+  code:
+  
+  -
+  layout: lecture
+  selected: y
+  date: 2018-11-24
+  img: prac
+  uid: practical2
+  title: "Practical II"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: 
+  data: 
+  code:
+  
+  
+
+
+
