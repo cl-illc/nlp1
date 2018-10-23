@@ -2,7 +2,7 @@
 layout: main
 ---
 
-This is the page of the course *Natural Language Processing 1* offered at the [University of Amsterdam][UvA]
+This is the page of the course *Natural Language Processing 1* offered at the [University of Amsterdam](http://www.uva.nl/)
 
 Course coordinator: [Ekaterina Shutova](http://www.cl.cam.ac.uk/~es407/)
 Labs coordinator: [Joost Bastings](https://bastings.github.io)
@@ -17,6 +17,3 @@ Teaching assistants: [Samira Abnar](https://staff.fnwi.uva.nl/s.abnar/)
 
 About the course.
 
-
-
-[UvA]: {{ site.uva_url }} "Universiteit van Amsterdam"
