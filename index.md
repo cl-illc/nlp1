@@ -20,12 +20,11 @@ Teaching assistants:
 - Victor Milewski
 
 
-## Goals
-
-- Goal 1
-- Goal 2
-
 ## Content
 
-About the course.
+This course introduces the fundamental techniques for a range of tasks in natural language processing (NLP), with a particular focus on statistical approaches. We will consider tasks that involve hierarchical structure (e.g., syntactic trees) and/or hidden structure (e.g., in semantic tasks), using supervised and some unsupervised statistical learning algorithms. The course aims to explain the potential and the main limitations of these techniques, as well as discussing them in the wider context of current research issues in NLP and its real-world applications. 
+
+An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews.
+
+
 
