@@ -50,6 +50,6 @@ The third edition of the book is currently in preparation and some of the chapte
 
 ## Assessment 
 
-- exams 50%,
+- exam 50%,
 - practical (group work) 50%
 
