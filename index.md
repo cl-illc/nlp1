@@ -46,7 +46,7 @@ The lectures will cover the following topics:
 
 Jurafsky, D. & Martin, J. (2008). Speech and language processing. 2nd edition. Prentice Hall.
 
-The third edition of the book is currently in preparation and some of the chapter are already available [online](https://web.stanford.edu/~jurafsky/slp3/). I will be referring to these chapters throughout the course.
+The third edition of the book is currently in preparation and some of the chapters are already available [online](https://web.stanford.edu/~jurafsky/slp3/). I will be referring to these online chapters throughout the course.
 
 ## Assessment 
 
