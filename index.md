@@ -26,5 +26,11 @@ This course introduces the fundamental techniques for a range of tasks in natura
 
 An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews.
 
+The lectures will cover the following topics:
 
+
+## Assessment 
+
+- exams 50%,
+- practical (group work) 50%
 
