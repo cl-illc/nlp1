@@ -24,8 +24,6 @@ Teaching assistants:
 
 This course introduces the fundamental techniques for a range of tasks in natural language processing (NLP), with a particular focus on statistical approaches. We will consider tasks that involve hierarchical structure (e.g., syntactic trees) and/or hidden structure (e.g., in semantic tasks), using supervised and some unsupervised statistical learning algorithms. The course aims to explain the potential and the main limitations of these techniques, as well as discussing them in the wider context of current research issues in NLP and its real-world applications. 
 
-An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews.
-
 The lectures will cover the following topics:
 
 - Introduction to NLP and its applications
@@ -41,6 +39,8 @@ The lectures will cover the following topics:
 - Summarization and question answering
 - Probabilistic modelling for NLP
 - Machine translation 
+
+An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews.
 
 ## Recommended reading
 
