@@ -11,13 +11,13 @@ Lab & tutorial coordinator: [Joost Bastings](https://bastings.github.io)
 Teaching assistants: 
 - [Samira Abnar](https://staff.fnwi.uva.nl/s.abnar/) (Senior TA)
 - [Daniel Daza Cruz](mailto:dfdazac@gmail.com)
-- Florian Mohnert
-- Jaap Jumelet
-- Jack Harding
-- Laura Ruis
-- Mario Giulianelli
-- Mathijs Mul
-- Victor Milewski
+- [Florian Mohnert](mailto:florian.mohnert@student.uva.nl)
+- [Jaap Jumelet](mailto:jumeletjaap@gmail.com)
+- [Jack Harding](mailto:jackhardingwork@gmail.com)
+- [Laura Ruis](mailto:l.e.ruis@uva.nl)
+- [Mario Giulianelli](mailto:mario.giulianelli@student.uva.nl)
+- [Mathijs Mul](mailto:mathijsmul@gmail.com)
+- [Victor Milewski](mailto:victormilewski@gmail.com)
 
 
 ## Content
