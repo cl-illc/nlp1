@@ -10,7 +10,7 @@ Lab & tutorial coordinator: [Joost Bastings](https://bastings.github.io)
 
 Teaching assistants: 
 - [Samira Abnar](https://staff.fnwi.uva.nl/s.abnar/) (Senior TA)
-- Daniel Daza Cruz
+- [Daniel Daza Cruz](mailto:dfdazac@gmail.com)
 - Florian Mohnert
 - Jaap Jumelet
 - Jack Harding
