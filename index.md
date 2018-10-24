@@ -6,7 +6,7 @@ This is the page of the course *Natural Language Processing 1* offered at the [U
 
 Course coordinator: [Ekaterina Shutova](http://www.cl.cam.ac.uk/~es407/)
 
-Labs coordinator: [Joost Bastings](https://bastings.github.io)
+Lab & tutorial coordinator: [Joost Bastings](https://bastings.github.io)
 
 Teaching assistants: 
 - [Samira Abnar](https://staff.fnwi.uva.nl/s.abnar/) (Senior TA)
@@ -27,6 +27,21 @@ This course introduces the fundamental techniques for a range of tasks in natura
 An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews.
 
 The lectures will cover the following topics:
+
+- Introduction to NLP and its applications
+- Morphological processing
+- Language models and part-of-speech tagging
+- Context-free grammars and syntactic parsing 
+- Lexical and distributional semantics
+- Neural language models and word embeddings 
+- Compositional semantics and sentence representations 
+- Discourse processing
+- Entailment and paraphrasing 
+- Dialogue modelling 
+- Summarization and question answering
+- Probabilistic modelling for NLP
+- Machine translation 
+
 
 
 ## Assessment 
