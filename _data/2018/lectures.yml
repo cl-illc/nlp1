@@ -8,10 +8,10 @@
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-    "In this introductory lecture we will discuss XXXXXX"
+    "Introduction to the course"
   background:
   discussion:
-  slides: resources/slides/slides1-nlp1.pdf
+  slides: resources/slides/NLP1-lecture1.pdf
   further: 
     - "Further reading"
   code: 
