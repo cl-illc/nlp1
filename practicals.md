@@ -5,8 +5,6 @@ menu: true
 ---
 *Autumn 2018*
 
-Guidelines for [assessment](assessment)
-
 # Practicals
 
 
