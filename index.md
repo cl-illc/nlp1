@@ -39,7 +39,8 @@ The lectures will cover the following topics:
 - Dialogue modelling 
 - Summarization and question answering
 - Probabilistic modelling for NLP
-- Machine translation 
+- Machine translation
+- Some examples of recent NLP research
 
 An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews.
 
