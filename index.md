@@ -19,6 +19,9 @@ Teaching assistants:
 - [Mathijs Mul](mailto:mathijsmul@gmail.com)
 - [Victor Milewski](mailto:victormilewski@gmail.com)
 
+## Course registration
+
+If you would like to register for this course, please email the student administrator [Liza Lambert](mailto:l.lambert@uva.nl). Liza will let you know whether you are eligible to register and help with the registration.
 
 ## Content
 
