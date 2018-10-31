@@ -4,7 +4,7 @@ title: Syllabus
 menu: yes
 ---
 
-*Spring 2018*
+*NLP1 2018*
 
 
 # Lectures
