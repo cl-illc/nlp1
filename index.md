@@ -28,7 +28,8 @@ The lectures will cover the following topics:
 
 - Introduction to NLP and its applications
 - Morphological processing
-- Language models and part-of-speech tagging
+- Language models
+- Part-of-speech tagging
 - Context-free grammars and syntactic parsing 
 - Lexical and distributional semantics
 - Neural language models and word embeddings 
