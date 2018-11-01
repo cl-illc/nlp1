@@ -29,7 +29,7 @@
     "In this lecture, we will discuss morphological processing"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture2.pdf
   further: 
     - ""
   code: 
@@ -53,3 +53,22 @@
     - "Chapter 4: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-08
+  img: Morphology
+  uid: lec4
+  title: "Formal grammars and syntactic parsing"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss syntax and syntactic parsing"
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Chapter 10: [Formal grammars of English](https://web.stanford.edu/~jurafsky/slp3/10.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 11: [Syntactic parsing](https://web.stanford.edu/~jurafsky/slp3/11.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:    
