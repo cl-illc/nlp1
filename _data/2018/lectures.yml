@@ -34,4 +34,21 @@
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data: 
-  
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-01
+  img: Morphology
+  uid: lec2
+  title: "Morphology and language models"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss morphological processing and language models"
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:  
