@@ -30,8 +30,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture2.pdf
-  further: 
-    - ""
+  further: resources/slides/Morphology-notes.pdf
   code: 
   data: 
 -
