@@ -38,7 +38,7 @@
   layout: lecture
   selected: y
   date: 2018-11-05
-  img: Morphology
+  img: PoS
   uid: lec3
   title: "Language models and part-of-speech tagging"
   instructor: "Ekaterina Shutova"
