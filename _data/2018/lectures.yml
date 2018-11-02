@@ -30,7 +30,8 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture2.pdf
-  further: resources/slides/Morphology-notes.pdf
+  further: 
+    - "Lecture notes are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
   code: 
   data: 
 -
