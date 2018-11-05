@@ -112,9 +112,9 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-15
+  date: 2018-11-19
   img: skip-gram
-  uid: lec6
+  uid: lec7
   title: "Compositional semantics and sentence representations"
   instructor: "Ekaterina Shutova"
   note: 
@@ -124,6 +124,6 @@
   discussion:
   slides: 
   further: 
-    - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Notes and papers will be posted closer to the time."
   code: 
   data:    
