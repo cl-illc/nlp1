@@ -76,7 +76,7 @@
   layout: lecture
   selected: y
   date: 2018-11-12
-  img: PoS
+  img: vectors
   uid: lec5
   title: "Lexical and distributional semantics"
   instructor: "Ekaterina Shutova"
@@ -95,7 +95,7 @@
   layout: lecture
   selected: y
   date: 2018-11-15
-  img: Parsing
+  img: skip-gram
   uid: lec6
   title: "Generalisation and word embeddings"
   instructor: "Ekaterina Shutova"
