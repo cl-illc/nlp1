@@ -109,3 +109,21 @@
     - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data:    
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-15
+  img: skip-gram
+  uid: lec6
+  title: "Compositional semantics and sentence representations"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:    
