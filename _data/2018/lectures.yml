@@ -47,7 +47,7 @@
     "In this lecture, we will discuss language models, i.e. modelling word sequences, and part-of-speech tagging"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture3.pdf
   further: 
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 4: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
