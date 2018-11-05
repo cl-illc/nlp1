@@ -113,7 +113,7 @@
   layout: lecture
   selected: y
   date: 2018-11-19
-  img: skip-gram
+  img: RNN
   uid: lec7
   title: "Compositional semantics and sentence representations"
   instructor: "Ekaterina Shutova"
