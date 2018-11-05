@@ -77,7 +77,7 @@
   selected: y
   date: 2018-11-12
   img: PoS
-  uid: lec3
+  uid: lec5
   title: "Lexical and distributional semantics"
   instructor: "Ekaterina Shutova"
   note: 
@@ -96,7 +96,7 @@
   selected: y
   date: 2018-11-15
   img: Parsing
-  uid: lec4
+  uid: lec6
   title: "Generalisation and word embeddings"
   instructor: "Ekaterina Shutova"
   note: 
