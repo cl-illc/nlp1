@@ -50,7 +50,7 @@
   slides: resources/slides/NLP1-lecture3.pdf
   further: 
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
-    - "Chapter 4: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data:  
 -
@@ -70,5 +70,42 @@
   further: 
     - "Chapter 10: [Formal grammars of English](https://web.stanford.edu/~jurafsky/slp3/10.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 11: [Syntactic parsing](https://web.stanford.edu/~jurafsky/slp3/11.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:    
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-12
+  img: PoS
+  uid: lec3
+  title: "Lexical and distributional semantics"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss lexical semantics, i.e. modelling the meaning of words, and will introduce statistical models of word meaning"
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Appendix Chapter C: [Computing with Word Senses: WSD and WordNet](https://web.stanford.edu/~jurafsky/slp3/C.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-15
+  img: Parsing
+  uid: lec4
+  title: "Generalisation and word embeddings"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data:    
