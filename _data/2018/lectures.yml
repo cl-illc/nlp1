@@ -66,7 +66,7 @@
     "In this lecture, we will discuss syntax and syntactic parsing"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture4.pdf
   further: 
     - "Chapter 10: [Formal grammars of English](https://web.stanford.edu/~jurafsky/slp3/10.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 11: [Syntactic parsing](https://web.stanford.edu/~jurafsky/slp3/11.pdf) in Jurafsky and Martin (3rd edition)."
