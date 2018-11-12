@@ -85,7 +85,7 @@
     "In this lecture, we will discuss lexical semantics, i.e. modelling the meaning of words, and will introduce statistical models of word meaning"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture5.pdf
   further: 
     - "Appendix Chapter C: [Computing with Word Senses: WSD and WordNet](https://web.stanford.edu/~jurafsky/slp3/C.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
