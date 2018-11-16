@@ -107,6 +107,7 @@
   slides: resources/slides/NLP1-lecture6.pdf
   further: 
     - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+  video: "The video recording of the lecture is available [here](https://webcolleges.uva.nl/Mediasite/Play/d85ac497a6054dfb8982713d029abb211d)"
   code: 
   data:    
 -
@@ -116,7 +117,7 @@
   img: RNN1
   uid: lec7
   title: "Word embeddings and sentence representations"
-  instructor: "Ekaterina Shutova"
+  instructor: "Ekaterina Shutova and Joost Bastings"
   note: 
   abstract: >
     "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
@@ -125,13 +126,12 @@
   slides: 
   further: 
     - "Notes and papers will be posted closer to the time."
-  video: "The video recording of the lecture is available [here](https://webcolleges.uva.nl/Mediasite/Play/d85ac497a6054dfb8982713d029abb211d)"
   code: 
   data:    
 -
   layout: lecture
   selected: y
-  date: 2018-11-15
+  date: 2018-11-26
   img: skip-gram
   uid: lec8
   title: "Discourse processing"
@@ -139,6 +139,24 @@
   note: 
   abstract: >
     "In this lecture, we will discuss discourse processing, i.e. modelling larger text fragments."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - ""
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-29
+  img: skip-gram
+  uid: lec9
+  title: "Entailment and paraphrasing"
+  instructor: "Guest lecture by Miguel Rios"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss modelling textual entailment and paraphrasing methods."
   background:
   discussion:
   slides: 
