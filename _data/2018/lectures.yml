@@ -132,7 +132,7 @@
   layout: lecture
   selected: y
   date: 2018-11-26
-  img: skip-gram
+  img: Discourse
   uid: lec8
   title: "Discourse processing"
   instructor: "Ekaterina Shutova"
@@ -150,7 +150,7 @@
   layout: lecture
   selected: y
   date: 2018-11-29
-  img: skip-gram
+  img: paraphrase
   uid: lec9
   title: "Entailment and paraphrasing"
   instructor: "Guest lecture by Miguel Rios"
