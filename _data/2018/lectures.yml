@@ -107,7 +107,7 @@
   slides: resources/slides/NLP1-lecture6.pdf
   further: 
     - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
-  video: "The video recording of the lecture is available [here](https://webcolleges.uva.nl/Mediasite/Play/d85ac497a6054dfb8982713d029abb211d)"
+  video: https://webcolleges.uva.nl/Mediasite/Play/d85ac497a6054dfb8982713d029abb211d
   code: 
   data:    
 -
