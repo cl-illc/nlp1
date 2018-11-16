@@ -107,6 +107,7 @@
   slides: resources/slides/NLP1-lecture6.pdf
   further: 
     - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+    - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
   video: https://webcolleges.uva.nl/Mediasite/Play/d85ac497a6054dfb8982713d029abb211d
   code: 
   data:    
@@ -125,7 +126,8 @@
   discussion:
   slides: 
   further: 
-    - "Notes and papers will be posted closer to the time."
+    - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition) has a section on word embeddings."
+    - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
   code: 
   data:    
 -
