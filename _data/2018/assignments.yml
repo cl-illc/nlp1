@@ -15,7 +15,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-10-31
+  date: 2018-11-16
   img: prac
   uid: intropytorch
   title: "Introduction to PyTorch"
@@ -24,5 +24,19 @@
   background:
   discussion:
   instructions: https://colab.research.google.com/drive/1RJ6ZkyACdIojrJlF2WhAB9VppwPXeDFD
+  data:
+  code:
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-16
+  img: prac
+  uid: intropytorch
+  title: "Practical II"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: https://colab.research.google.com/drive/1Keld1qNfelnxaNS9WbbFfCJS99PPoAoA
   data:
   code:
