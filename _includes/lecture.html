@@ -64,6 +64,10 @@
     {% if include.lecture.data %}
     <a href="{{ include.lecture.data }}" class="label label-info">Data</a>
     {% endif %}
+      
+    {% if include.lecture.video %}
+    <a href="{{ include.lecture.video }}" class="label label-info">Video</a>
+    {% endif %}  
     
     {% if include.lecture.background or include.lecture.backgroundwarn %}
       <a data-toggle="modal" href="#background{{ include.lecture.uid }}" class="label label-success">Background reading</a>
