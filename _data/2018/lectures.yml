@@ -120,7 +120,7 @@
   instructor: "Ekaterina Shutova and Joost Bastings"
   note: 
   abstract: >
-    "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
+    "In this lecture, we will discuss methods for learning dense word embeddings and compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
   background:
   discussion:
   slides: 
