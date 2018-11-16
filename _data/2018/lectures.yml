@@ -128,3 +128,21 @@
   video: "The video recording of the lecture is available [here](https://webcolleges.uva.nl/Mediasite/Play/d85ac497a6054dfb8982713d029abb211d)"
   code: 
   data:    
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-15
+  img: skip-gram
+  uid: lec8
+  title: "Discourse processing"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss discourse processing, i.e. modelling larger text fragments."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - ""
+  code: 
+  data:  
