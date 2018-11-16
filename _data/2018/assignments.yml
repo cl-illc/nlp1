@@ -12,3 +12,17 @@
   instructions: https://colab.research.google.com/drive/1ya44lt-fI8GnesnDqAX6oOd-cUMhSmXc 
   data:
   code:
+-
+  layout: lecture
+  selected: y
+  date: 2018-10-31
+  img: prac
+  uid: intropytorch
+  title: "Introduction to PyTorch"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: https://colab.research.google.com/drive/1RJ6ZkyACdIojrJlF2WhAB9VppwPXeDFD
+  data:
+  code:
