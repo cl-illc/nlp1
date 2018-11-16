@@ -168,3 +168,21 @@
     - "Reading materials will be posted closer to the time"
   code: 
   data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-12-03
+  img: paraphrase
+  uid: lec10
+  title: "Dialogue modelling"
+  instructor: "Guest lecture by Raquel Fernandez and Elia Bruni"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss dialogue modelling and dialogue systems."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Reading materials will be posted closer to the time"
+  code: 
+  data:  
