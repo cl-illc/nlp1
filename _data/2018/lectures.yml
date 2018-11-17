@@ -130,6 +130,8 @@
     - "Chapter 7: [Neural networks and neural language models](https://web.stanford.edu/~jurafsky/slp3/7.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 9: [Sequence processing with recurrent neural networks](https://web.stanford.edu/~jurafsky/slp3/9.pdf) in Jurafsky and Martin (3rd edition)."
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
+    - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing
+](https://arxiv.org/abs/1510.00726)"
   code: 
   data:    
 -
