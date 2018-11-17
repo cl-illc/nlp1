@@ -115,7 +115,7 @@
   layout: lecture
   selected: y
   date: 2018-11-19
-  img: RNN1
+  img: srn
   uid: lec7
   title: "Word embeddings and sentence representations"
   instructor: "Ekaterina Shutova and Joost Bastings"
