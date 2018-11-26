@@ -195,5 +195,7 @@
     - "[A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://breakend.github.io/DialogDatasets/)"
     - "Section 2 of [this paper](https://arxiv.org/pdf/1512.05742.pdf) offers a concise overview of data-driven dialogue systems"
     - "[Tutorial on Deep Learning for Dialogue Systems at COLING 2018](https://sites.google.com/view/deepdial/)"
+    - "[GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481)"
+    - "[Visual Dialog](https://arxiv.org/abs/1611.08669)"
   code: 
   data:  
