@@ -40,3 +40,17 @@
   instructions: https://colab.research.google.com/drive/1Keld1qNfelnxaNS9WbbFfCJS99PPoAoA
   data:
   code:
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-27
+  img: prac
+  uid: exercises
+  title: "Exercises: Part of speech tagging"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: resources/practicals/PoS-tagging.pdf
+  data:
+  code:
