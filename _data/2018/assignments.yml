@@ -54,3 +54,31 @@
   instructions: resources/practicals/PoS-tagging.pdf
   data:
   code:
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-27
+  img: prac
+  uid: exercises
+  title: "Exercises: Syntactic parsing"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: resources/practicals/Parsing.pdf
+  data:
+  code:
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-27
+  img: prac
+  uid: exercises
+  title: "Exercises: Distributional semantics"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: resources/practicals/Dist-Sem.pdf
+  data:
+  code: 
