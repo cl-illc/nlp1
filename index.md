@@ -58,3 +58,9 @@ The third edition of the book is currently in preparation and some of the chapte
 - exam 50%,
 - practical (group work) 50%
 
+## Deadlines
+
+- Practical I report: 23 November
+- Exercises: 7 December
+- Practical II report: 12 December
+
