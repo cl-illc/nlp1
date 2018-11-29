@@ -168,11 +168,12 @@
     "In this lecture, we will discuss modelling textual entailment and paraphrasing methods."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture9.pdf
   further: 
     - "[A Survey of Paraphrasing and Textual Entailment Methods](https://arxiv.org/pdf/0912.3747.pdf) (Sections 1 and 2)"
     - "[A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf)"
     - "[Annotation Artifacts in Natural Language Inference Data](http://aclweb.org/anthology/N18-2017)"
+  video: https://webcolleges.uva.nl/Mediasite/Play/5f728f76bbec4fde97c84457ba94cdd31d
   code: 
   data:  
 -
