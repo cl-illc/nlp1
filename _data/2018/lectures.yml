@@ -223,7 +223,7 @@
   layout: lecture
   selected: y
   date: 2018-12-10
-  img: Discourse
+  img: dgm
   uid: lec12
   title: "Generative models for NLP"
   instructor: "Guest lecture by Wilker Aziz"
