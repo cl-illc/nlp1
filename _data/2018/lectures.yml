@@ -200,3 +200,22 @@
     - "[Visual Dialog](https://arxiv.org/abs/1611.08669)"
   code: 
   data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-12-06
+  img: Discourse
+  uid: lec11
+  title: "Language generation and summarisation"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will talk about language generation and cover a particular language generation task, text summarisation, in more detail."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
+  video: 
+  code: 
+  data:  
