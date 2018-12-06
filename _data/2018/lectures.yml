@@ -215,10 +215,11 @@
     "In this lecture, we will talk about language generation and cover a particular language generation task, text summarisation, in more detail."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture11.pdf
   further: 
     - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
-  video: 
+    - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
+  video: https://webcolleges.uva.nl/Mediasite/Play/5e8d240077ed433ab05302f99d21e86f1d
   code: 
   data:  
 -
