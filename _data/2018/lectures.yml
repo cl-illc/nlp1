@@ -226,26 +226,8 @@
   layout: lecture
   selected: y
   date: 2018-12-10
-  img: dgm
-  uid: lec12
-  title: "Generative models for NLP"
-  instructor: "Guest lecture by Wilker Aziz"
-  note: 
-  abstract: >
-    ""
-  background:
-  discussion:
-  slides: 
-  further: 
-  video: 
-  code: 
-  data:  
--
-  layout: lecture
-  selected: y
-  date: 2018-12-13
   img: MT
-  uid: lec13
+  uid: lec12
   title: "Machine translation"
   instructor: "Joost Bastings"
   note: 
@@ -259,4 +241,21 @@
   video: 
   code: 
   data:  
-
+-
+  layout: lecture
+  selected: y
+  date: 2018-12-13
+  img: dgm
+  uid: lec13
+  title: "Foundations of Bayesian NLP"
+  instructor: "Guest lecture by Wilker Aziz"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss Bayesian modelling in NLP"
+  background:
+  discussion:
+  slides: 
+  further: 
+  video: 
+  code: 
+  data:  
