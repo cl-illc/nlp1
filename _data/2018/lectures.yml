@@ -232,7 +232,7 @@
   instructor: "Joost Bastings"
   note: 
   abstract: >
-    "In this lecture, we will discuss approaches to machine translation"
+    "We will discuss the fundamentals of machine translation, incl. word-based / alignment models and phrase-based SMT"
   background:
   discussion:
   slides: resources/slides/NLP1-lecture12.pdf
