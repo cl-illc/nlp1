@@ -235,11 +235,14 @@
     "In this lecture, we will discuss approaches to machine translation"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture12.pdf
   further: 
-    - "[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)"
-  video: 
-  code: 
+    - "[Word based IBM models](http://www.aclweb.org/anthology/J93-2003)"
+    - "[Phrase-based SMT](http://www.aclweb.org/anthology/N03-1017) and this [book](http://www.statmt.org/book/)"
+    - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
+    - "[Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
+  video: https://webcolleges.uva.nl/Mediasite/Play/6795feb2e66c45f0979531db6b1625941d
+  code: https://github.com/joeynmt/joeynmt
   data:  
 -
   layout: lecture
