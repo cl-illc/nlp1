@@ -26,7 +26,7 @@ cover the main techniques ("building blocks") used in your project (e.g. word em
     - The architecture of the final models (how do you use LSTM or Tree LSTM for the sentiment classification task. what layers you have, how do you do classification? What is your loss function?)
 4. Experiments (~1/2 page, 1pt) - Describe your experimental setup. The information here should allow someone else to re-create your experiments. Describe how you evaluate the models.
     - Explain the task and the data
-    - Training the models (model, data, parameters and hyper parameters if the models, training algorithms, what supervision signals you use, etc.)
+    - Training the models (model, data, parameters and hyper parameters of the models, training algorithms, what supervision signals you use, etc.)
     - Evaluation (e.g. metrics)
 5. Results and Analysis (~1 page, 4pts). Go over the results and analyse your findings.
     - Answer each of the research questions you raised in the introduction.
