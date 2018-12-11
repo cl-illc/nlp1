@@ -37,7 +37,7 @@ cover the main techniques ("building blocks") used in your project (e.g. word em
     - Where the results as expected ? any surprising results? why?
     - Based on what you learned what would you suggest to do next?
 
-You lose points for bad writing style (because you were asked to prepare a conference-style report).
+**You lose points for bad writing style** (because you were asked to prepare a conference-style report).
 
 * Writing style
     * did not make proper use of the latex template (e.g. tweaked the template): -0.5
