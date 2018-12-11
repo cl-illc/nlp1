@@ -33,12 +33,12 @@
   img: prac
   uid: intropytorch
   title: "Practical II"
-  note: [assessment]
+  note: 
   abstract: 
-  background:
+  background: 
   discussion:
   instructions: https://colab.research.google.com/drive/1Keld1qNfelnxaNS9WbbFfCJS99PPoAoA
-  data:
+  data: [assessment](assessment)
   code:
 -
   layout: lecture
