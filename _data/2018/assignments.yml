@@ -38,7 +38,7 @@
   background: 
   discussion:
   instructions: https://colab.research.google.com/drive/1Keld1qNfelnxaNS9WbbFfCJS99PPoAoA
-  data: [assessment](assessment)
+  data: "[assessment](assessment)"
   code:
 -
   layout: lecture
