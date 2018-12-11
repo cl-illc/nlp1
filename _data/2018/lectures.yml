@@ -248,17 +248,20 @@
   layout: lecture
   selected: y
   date: 2018-12-13
-  img: dgm
+  img: bayes-nlp
   uid: lec13
   title: "Foundations of Bayesian NLP"
   instructor: "Guest lecture by Wilker Aziz"
   note: 
   abstract: >
-    "In this lecture, we will discuss Bayesian modelling in NLP"
+      "In this lecture, we will discuss the differences between frequentism and Bayesian modelling. We will discuss the concept of a prior and Bayesian inference. The model we will use to illustrate concepts is the Dirichlet-Multinomial model, the base for models such as Bayesian mixture models, HMM, and LDA. For approximate inference, we will discuss MCMC and in particular Gibbs sampling."
   background:
   discussion:
   slides: 
-  further: 
+  further: |
+    * [A Fully Bayesian Approach to Unsupervised Part-of-Speech Tagging](http://aclweb.org/anthology/P07-1094) 
+    * [Bayesian Inference for PCFGs via Markov chain Monte Carlo](http://aclweb.org/anthology/N07-1018)
+    * [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
   video: 
   code: 
   data:  
