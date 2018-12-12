@@ -234,9 +234,11 @@
   abstract: >
     "We will discuss the fundamentals of machine translation, incl. word-based / alignment models and phrase-based SMT"
   background:
+    - "[Explanation of IBM models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)"
   discussion:
   slides: resources/slides/NLP1-lecture12.pdf
   further: 
+    - "Optional readings"
     - "[Word based IBM models](http://www.aclweb.org/anthology/J93-2003)"
     - "[Phrase-based SMT](http://www.aclweb.org/anthology/N03-1017) and this [book](http://www.statmt.org/book/)"
     - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
