@@ -256,14 +256,23 @@
   instructor: "Guest lecture by Wilker Aziz"
   note: 
   abstract: >
-      "In this lecture, we will discuss the differences between frequentism and Bayesian modelling. We will discuss the concept of a prior and Bayesian inference. The model we will use to illustrate concepts is the Dirichlet-Multinomial model, the base for models such as Bayesian mixture models, HMM, and LDA. For approximate inference, we will discuss MCMC and in particular Gibbs sampling."
+      "In this lecture, we will discuss the differences between frequentism and Bayesian modelling. We will discuss the concept of a prior and Bayesian inference. The model we will use to illustrate concepts is the Dirichlet-Multinomial model, the base for models such as Bayesian mixture models, HMM, and LDA. For approximate inference, we will discuss MCMC and in particular Gibbs sampling.
+
+        Shameless advertisement:
+            * To learn more about latent variable models in NLP (unsupervised and semi-supervised learning), take NLP2.
+            * To learn more about Bayesian modelling in NLP, especially in the context of deep learning, take Machine Learning for NLP ;)
+
+      "
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture13.pdf
   further: |
-    * [A Fully Bayesian Approach to Unsupervised Part-of-Speech Tagging](http://aclweb.org/anthology/P07-1094) 
-    * [Bayesian Inference for PCFGs via Markov chain Monte Carlo](http://aclweb.org/anthology/N07-1018)
-    * [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+      * For a POS tagging model: [A Fully Bayesian Approach to Unsupervised Part-of-Speech Tagging](http://aclweb.org/anthology/P07-1094) 
+      * For a PCFG model: [Bayesian Inference for PCFGs via Markov chain Monte Carlo](http://aclweb.org/anthology/N07-1018)
+      * A very special type of mixture model: [Bayesian Word Alignment for Statistical Machine Translation](http://aclweb.org/anthology/P11-2032)
+      * The classict of all times: [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+        * This paper focusses on a different type of approximate inference technique (not MCMC, but rather variational inference), in ML4NLP we cover it in great detail (in particular, this is the class of algorithms we use to do probabilistic modelling with neural networks)
+      * If you are interested in Bayesian non-parametric methods for NLP, check Sharon Goldwater's [thesis](https://homepages.inf.ed.ac.uk/sgwater/papers/thesis_1spc.pdf), it's remarkably well written and clear!
   video: 
   code: 
   data:  
