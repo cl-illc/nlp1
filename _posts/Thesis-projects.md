@@ -18,7 +18,7 @@ Supervisor: Ekaterina Shutova
 
 Collaborators: Douwe Kiela (Facebook AI Research)
 
-Description
+#Description
 
 Languages may share universal features at a deep, abstract level, but the structures found in real-world, surface-level natural language vary significantly. This variation makes it challenging to transfer NLP models across languages or to develop systems that apply to a wide range of languages. As a consequence, the availability of NLP technology is limited to a handful of resource-rich languages, leaving many other languages behind. Understanding linguistic variation in a systematic way is crucial for the development of effective multilingual NLP applications, thus making NLP technology more accessible globally. 
 
@@ -34,7 +34,7 @@ Advanced programming skills (algorithms and data structures; ideally experience 
 Knowledge and skill in developing and applying machine learning algorithms (particularly, interest and experience in deep learning) 
 Good familiarity with and experience in NLP; but don’t worry we will help you to fill in the gaps.
 
-Further reading:
+#Further reading:
 
 Edoardo Ponti, Helen O'Horan, Yevgeni Berzak, Ivan Vulic, Roi Reichart, Thierry Poibeau, Ekaterina Shutova, Anna Korhonen. 2018. Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing.  In arXiv e-prints, abs/1807.00914. 
 
@@ -50,13 +50,13 @@ Guillaume Lample and Alexis Conneau. 2019. Cross-lingual Language Model Pretrain
 Ian Tenney, Patrick Xia, Berlin Chen, Alex Wang, Adam Poliak, R. Thomas McCoy, Najoung Kim, Benjamin Van Durme, Samuel R. Bowman, Dipanjan Das, and Ellie Pavlick. 2019. What do you learn from context? Probing for sentence structure in contextualized word representations. Proceedings of ICLR 2019.
 
 
-Abusive language detection in conversation
+##Abusive language detection in conversation
 
 Supervisor: Ekaterina Shutova
 
 Collaborators: Helen Yannakoudakis (University of Cambridge) and Pushkar Mishra (Facebook AI Research)
 
-Description
+#Description
 
 With the advent of social media, aggressive and abusive behaviour online has become one of its prominent features. The undesirable psychological effects of online abuse on individuals make it an important societal problem of our time. The term abuse encompasses hate speech, racism, sexism, derogatory language, personal attacks and cyber­bullying. In recent years, a new research effort on automated abuse detection has sprung up in the field of NLP. The community has experimented with a range of techniques such as recurrent and convolutional neural networks, character-based models and graph-based methods capturing the properties of the social network. While these methods have achieved substantial success, they have an important limitation in that they focus on modeling the linguistic properties of comments in isolation from other comments. Abuse is, however, inherently a situational and contextual phenomenon --- it can only be interpreted as part of a wider conversation between users on the Internet. This means that individual comments can be difficult to classify without modeling their respective contexts. For instance, Mishra et al. (2018) have pointed out that many comments in widely-used Twitter datasets do not contain sufficient lexical or semantic information to detect abuse even in principle and techniques for modeling discourse and elements of pragmatics are needed. In this project, we will address this problem and develop novel abuse detection methods that capture the history of the conversation and the behavior of the users as it develops over time. We will use techniques from the domain of discourse and dialogue modelling (such as memory networks, recurrent neural networks with attention etc), as well as graph-based methods (such as graph convolutional networks), to model interactions between the users. In addition, we will also incorporate insights from experimental research on conversational behaviour among individuals and groups in fields such as psychology and linguistics.
 
@@ -70,7 +70,7 @@ Advanced programming skills (algorithms and data structures; ideally experience 
 Knowledge and skill in developing and applying machine learning algorithms (particularly, interest and experience in deep learning) 
 Good familiarity with and experience in NLP; but don’t worry we will help you to fill in the gaps.
 
-Further reading:
+#Further reading:
 
 P. Mishra, M. Del Tredici, H. Yannakoudakis, and E. Shutova. Author profiling for abuse detection. In Proceedings of COLING 2018, pages 1088–1098. ACL, 2018. 
 
@@ -87,13 +87,13 @@ Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova. 2019. Tackling Online
 Pushkar Mishra, Marco del Tredici, Helen Yannakoudakis and Ekaterina Shutova. 2019. Abusive language detection with graph convolutional networks. In Proceedings of NAACL-HLT 2019. Minneapolis, USA.
 
 
-Modelling the structure and linguistic behaviour of online communities to detect misinformation
+##Modelling the structure and linguistic behaviour of online communities to detect misinformation
 
 Supervisor: Ekaterina Shutova
 
 Collaborators: Helen Yannakoudakis (University of Cambridge) and Pushkar Mishra (Facebook AI Research)
 
-Description
+#Description
 
 The spread of misinformation online leads to undesirable consequences in many areas of societal life, most notably visible in the political arena and healthcare. Misinformation appears in many forms, from content that is outright false (known as “fake news”) to propaganda and highly opinionated content, presenting a biased view of the world or carefully selecting facts to reinforce a particular perspective. Recent years have seen a growing interest in automatic detection of false and misleading content in the field of NLP, with researchers typically defining the problem as a classification of articles as misleading or not. The majority of existing approaches in this area have focused on modelling the structure, style and content of the online documents and comments, paying less attention to ways in which misleading content is propagated online. This project aims to advance this line of research by modelling the structure of online communities within which misinformation spreads and the linguistic behavior of the users in these communities, which is indicative of their stance on a given issue. We will experiment with state-of-the-art methods for representation learning on graphs and networks, such as graph convolutional networks (Kipf and Welling, 2017) and GraphSAGE (Hamilton et al., 2017) among others.
 
@@ -106,7 +106,7 @@ Advanced programming skills (algorithms and data structures; ideally experience 
 Knowledge and skill in developing and applying machine learning algorithms (particularly, interest and experience in deep learning) 
 Good familiarity with and experience in NLP; but don’t worry we will help you to fill in the gaps.
 
-Further reading:
+#Further reading:
 
 Thomas N. Kipf and Max Welling. 2017. Semi-supervised classification with graph convolutional
 networks. In Proceedings of the 5th International Conference on Learning Representations, ICLR 2017.
@@ -122,11 +122,11 @@ Fatemeh Torabi Asr, Maite Taboada. 2019. Big Data and quality data for fake news
 
 
 
-Lexical ambiguity and polysemy with density matrices
+##Lexical ambiguity and polysemy with density matrices
 
 Supervisors: Martha Lewis (ILLC) and Ekaterina Shutova (ILLC)
 
-Description
+#Description
 
 Polysemy is the phenomenon that words adopt different meanings according to their contexts of use. This can range from clear-cut ambiguity such as `diamond' with the meaning `gemstone' or `shape' to more subtle polysemous meaning such as `window' in `Marcelle broke the window' (the glass) or `The bird flew out of the window' (the opening). Approaches to modelling polysemy in distributional semantics include building one representation that can represent all senses at once, or alternatively, representing different senses as separate vectors.
 
@@ -148,7 +148,7 @@ Knowledge and skill in developing and applying machine learning algorithms (part
 Good familiarity with and experience in NLP; but don’t worry we will help you to fill in the gaps.
 
 
-Further reading:
+#Further reading:
 
 Bankova, D., Coecke, B., Lewis, M., & Marsden, D. (2019). Graded hyponymy for compositional distributional semantics. Journal of Language Modelling, 6(2), 225-260. http://jlm.ipipan.waw.pl/index.php/JLM/article/view/230
 
