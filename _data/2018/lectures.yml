@@ -243,7 +243,7 @@
     - "[Phrase-based SMT](http://www.aclweb.org/anthology/N03-1017) and this [book](http://www.statmt.org/book/)"
     - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
     - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/6795feb2e66c45f0979531db6b1625941d
+  video: 
   code: https://github.com/joeynmt/joeynmt
   data:  
 -
